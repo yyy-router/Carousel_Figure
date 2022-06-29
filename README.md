@@ -28,7 +28,7 @@
 
 ```
 //使用下面的方法可以使元素居中
-	left: 50%;
-    transform: translateX(-50%);
+left: 50%;
+transform: translateX(-50%);
 ```
 
